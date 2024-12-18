@@ -1,0 +1,24 @@
+11-09 12:51:33 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 178:Plugin executed on: 'win32'
+11-09 12:51:33 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 179:Plugin executed with python version: '3.11.5 (main, Jan 19 2024, 08:13:45) [MSC v.1936 64 bit (AMD64)]'
+11-09 12:51:33 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 180:KiCad build version: 8.0.0
+11-09 12:51:33 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 181:Plugin version: 3.0.1
+11-09 12:51:33 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 182:Frame repr: <wx._core.Frame object at 0x0000021288F304C0>
+11-09 12:51:33 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 200:Anchor footprint reference is 'U2'
+11-09 12:51:35 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 280:Restore layout chosen
+11-09 12:51:54 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 75:Initialization start
+11-09 12:51:54 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 77:Initialization done Group name:
+11-09 12:51:59 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 788:Getting board info
+11-09 12:51:59 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 791:Get project schematics and layout data
+11-09 12:51:59 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 176:getting a list of all footprints on board
+11-09 12:51:59 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 805:Loading saved design
+11-09 12:51:59 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 830:Source level is:['power_supplies.kicad_sch']
+11-09 12:51:59 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 835:Destination footprint is:'U2'
+11-09 12:51:59 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 836:Destination levels available are:['STM32_PowerConverter.kicad_sch']
+11-09 12:53:25 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 325:Error when restoring layout
+Traceback (most recent call last):
+  File "D:\Documents\KiCad\8.0\3rdparty\plugins\com_github_MitjaNemec_SaveRestoreLayout\action_save_restore_layout.py", line 318, in Run
+    restore_layout.restore_layout(layout_file)
+  File "D:\Documents\KiCad\8.0\3rdparty\plugins\com_github_MitjaNemec_SaveRestoreLayout\save_restore_layout.py", line 840, in restore_layout
+    raise LookupError("Destination hierarchy: " + repr(self.dst_anchor_fp.filename) + "\n"
+LookupError: Destination hierarchy: ['STM32_PowerConverter.kicad_sch']
+does not match source level: 'power_supplies.kicad_sch'
