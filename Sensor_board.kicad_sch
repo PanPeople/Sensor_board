@@ -10326,7 +10326,6 @@
 	)
 	(label "GND"
 		(at 87.63 199.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10337,7 +10336,6 @@
 	)
 	(label "SPI2_MISO"
 		(at 389.89 125.73 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10348,7 +10346,6 @@
 	)
 	(label "3.3V"
 		(at 184.15 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10359,7 +10356,6 @@
 	)
 	(label "PB9"
 		(at 344.17 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10370,7 +10366,6 @@
 	)
 	(label "GND"
 		(at 31.75 274.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10381,7 +10376,6 @@
 	)
 	(label "3.3V"
 		(at 389.89 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10392,7 +10386,6 @@
 	)
 	(label "TIM3_CH1"
 		(at 341.63 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10403,7 +10396,6 @@
 	)
 	(label "GND"
 		(at 88.9 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10414,7 +10406,6 @@
 	)
 	(label "GND"
 		(at 203.2 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10425,7 +10416,6 @@
 	)
 	(label "FDCAN1_TX+"
 		(at 87.63 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10436,7 +10426,6 @@
 	)
 	(label "GND"
 		(at 16.51 168.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10447,7 +10436,6 @@
 	)
 	(label "5V"
 		(at 203.2 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10458,7 +10446,6 @@
 	)
 	(label "CAN_2_L"
 		(at 198.12 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10469,7 +10456,6 @@
 	)
 	(label "VCC"
 		(at 87.63 204.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10480,7 +10466,6 @@
 	)
 	(label "TIM3_CH2"
 		(at 316.23 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10491,7 +10476,6 @@
 	)
 	(label "USART2_RX"
 		(at 45.72 205.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10502,7 +10486,6 @@
 	)
 	(label "I2C1_SDA"
 		(at 88.9 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10513,7 +10496,6 @@
 	)
 	(label "CAN_1_L"
 		(at 93.98 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10524,7 +10506,6 @@
 	)
 	(label "USART2_RX"
 		(at 316.23 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10535,7 +10516,6 @@
 	)
 	(label "SWCLK"
 		(at 57.15 260.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10546,7 +10526,6 @@
 	)
 	(label "CAN_1_L"
 		(at 16.51 173.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10557,7 +10536,6 @@
 	)
 	(label "CAN_2_H"
 		(at 198.12 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10568,7 +10546,6 @@
 	)
 	(label "I2C1_SCL"
 		(at 361.95 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10579,7 +10556,6 @@
 	)
 	(label "GND"
 		(at 354.33 165.1 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10590,7 +10566,6 @@
 	)
 	(label "USART1_TX"
 		(at 45.72 194.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10601,7 +10576,6 @@
 	)
 	(label "PB0"
 		(at 346.71 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10612,7 +10586,6 @@
 	)
 	(label "3.3V"
 		(at 31.75 250.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10623,7 +10596,6 @@
 	)
 	(label "I2C2_SDA"
 		(at 389.89 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10634,7 +10606,6 @@
 	)
 	(label "CAN_1_L"
 		(at 16.51 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10645,7 +10616,6 @@
 	)
 	(label "GND"
 		(at 251.46 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10656,7 +10626,6 @@
 	)
 	(label "PB1"
 		(at 152.4 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10667,7 +10636,6 @@
 	)
 	(label "GND"
 		(at 88.9 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10678,7 +10646,6 @@
 	)
 	(label "SPI2_MOSI"
 		(at 389.89 123.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10689,7 +10656,6 @@
 	)
 	(label "PC13"
 		(at 152.4 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10700,7 +10666,6 @@
 	)
 	(label "GND"
 		(at 389.89 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10711,7 +10676,6 @@
 	)
 	(label "PB2"
 		(at 152.4 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10722,7 +10686,6 @@
 	)
 	(label "PB5"
 		(at 152.4 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10733,7 +10696,6 @@
 	)
 	(label "CAN_1_L"
 		(at 16.51 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10744,7 +10706,6 @@
 	)
 	(label "I2C2_SDA"
 		(at 88.9 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10755,7 +10716,6 @@
 	)
 	(label "GND"
 		(at 16.51 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10766,7 +10726,6 @@
 	)
 	(label "GND"
 		(at 121.92 271.145 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10777,7 +10736,6 @@
 	)
 	(label "SWDIO"
 		(at 367.03 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10788,7 +10746,6 @@
 	)
 	(label "PB1"
 		(at 121.92 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10799,7 +10756,6 @@
 	)
 	(label "FDCAN1_TX"
 		(at 36.83 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10810,7 +10766,6 @@
 	)
 	(label "FDCAN1_RX"
 		(at 74.93 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10821,7 +10776,6 @@
 	)
 	(label "3.3V"
 		(at 45.72 217.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10832,7 +10786,6 @@
 	)
 	(label "PB2"
 		(at 351.79 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10843,7 +10796,6 @@
 	)
 	(label "TIM2_CH2"
 		(at 203.2 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10854,7 +10806,6 @@
 	)
 	(label "ADC1_IN1"
 		(at 184.15 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10865,7 +10816,6 @@
 	)
 	(label "PB0"
 		(at 121.92 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10876,7 +10826,6 @@
 	)
 	(label "3.3V"
 		(at 87.63 196.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10887,7 +10836,6 @@
 	)
 	(label "GND"
 		(at 57.15 262.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10898,7 +10846,6 @@
 	)
 	(label "3.3V"
 		(at 356.87 165.1 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10909,7 +10856,6 @@
 	)
 	(label "PA6"
 		(at 341.63 167.64 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10920,7 +10866,6 @@
 	)
 	(label "3.3V"
 		(at 100.33 250.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10931,7 +10876,6 @@
 	)
 	(label "ADC1_IN2"
 		(at 316.23 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10942,7 +10886,6 @@
 	)
 	(label "ADC1_IN1"
 		(at 316.23 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10953,7 +10896,6 @@
 	)
 	(label "GND"
 		(at 135.89 271.145 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10964,7 +10906,6 @@
 	)
 	(label "3.3V"
 		(at 88.9 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10975,7 +10916,6 @@
 	)
 	(label "3.3V"
 		(at 45.72 203.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10986,7 +10926,6 @@
 	)
 	(label "PA6"
 		(at 184.15 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10997,7 +10936,6 @@
 	)
 	(label "FDCAN2_RX"
 		(at 403.86 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11008,7 +10946,6 @@
 	)
 	(label "3.3V"
 		(at 234.95 30.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11019,7 +10956,6 @@
 	)
 	(label "TIM3_CH1"
 		(at 251.46 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11030,7 +10966,6 @@
 	)
 	(label "RCC_OSC_IN"
 		(at 245.11 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11041,7 +10976,6 @@
 	)
 	(label "USART1_RX"
 		(at 45.72 219.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11052,7 +10986,6 @@
 	)
 	(label "FDCAN1_RX"
 		(at 36.83 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11063,7 +10996,6 @@
 	)
 	(label "5V"
 		(at 203.2 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11074,7 +11006,6 @@
 	)
 	(label "GND"
 		(at 341.63 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11085,7 +11016,6 @@
 	)
 	(label "CAN_2_H"
 		(at 198.12 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11096,7 +11026,6 @@
 	)
 	(label "I2C1_SCL"
 		(at 88.9 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11107,7 +11036,6 @@
 	)
 	(label "3.3V"
 		(at 367.03 165.1 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11118,7 +11046,6 @@
 	)
 	(label "PB0"
 		(at 152.4 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11129,7 +11056,6 @@
 	)
 	(label "PC13"
 		(at 91.44 262.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11140,7 +11066,6 @@
 	)
 	(label "PC14"
 		(at 135.89 252.095 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11151,7 +11076,6 @@
 	)
 	(label "GND"
 		(at 152.4 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11162,7 +11086,6 @@
 	)
 	(label "GND"
 		(at 203.2 161.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11173,7 +11096,6 @@
 	)
 	(label "CAN_2_L"
 		(at 49.53 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11184,7 +11106,6 @@
 	)
 	(label "SPI1_MISO"
 		(at 121.92 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11195,7 +11116,6 @@
 	)
 	(label "3.3V"
 		(at 88.9 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11206,7 +11126,6 @@
 	)
 	(label "USART1_TX"
 		(at 45.72 222.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11217,7 +11136,6 @@
 	)
 	(label "USART1_TX"
 		(at 351.79 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11228,7 +11146,6 @@
 	)
 	(label "USART1_RX"
 		(at 389.89 115.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11239,7 +11156,6 @@
 	)
 	(label "BOOT0"
 		(at 346.71 64.77 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11250,7 +11166,6 @@
 	)
 	(label "TIM2_CH4"
 		(at 389.89 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11261,7 +11176,6 @@
 	)
 	(label "VCC"
 		(at 16.51 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11272,7 +11186,6 @@
 	)
 	(label "NRST"
 		(at 313.69 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11283,7 +11196,6 @@
 	)
 	(label "PB1"
 		(at 349.25 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11294,7 +11206,6 @@
 	)
 	(label "GND"
 		(at 45.72 196.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11305,7 +11216,6 @@
 	)
 	(label "FDCAN2_TX"
 		(at 403.86 130.81 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11316,7 +11226,6 @@
 	)
 	(label "TIM2_CH4"
 		(at 203.2 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11327,7 +11236,6 @@
 	)
 	(label "3.3V"
 		(at 359.41 165.1 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11338,7 +11246,6 @@
 	)
 	(label "TIM2_CH3"
 		(at 361.95 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11349,7 +11256,6 @@
 	)
 	(label "SWCLK"
 		(at 364.49 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11360,7 +11266,6 @@
 	)
 	(label "GND"
 		(at 152.4 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11371,7 +11276,6 @@
 	)
 	(label "3.3V"
 		(at 121.92 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11382,7 +11286,6 @@
 	)
 	(label "PB9"
 		(at 152.4 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11393,7 +11296,6 @@
 	)
 	(label "FDCAN1_RX-"
 		(at 87.63 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11404,7 +11306,6 @@
 	)
 	(label "5V"
 		(at 176.53 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11415,7 +11316,6 @@
 	)
 	(label "3.3V"
 		(at 45.72 189.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11426,7 +11326,6 @@
 	)
 	(label "SPI1_SCK"
 		(at 339.09 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11437,7 +11336,6 @@
 	)
 	(label "5V"
 		(at 184.15 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11448,7 +11346,6 @@
 	)
 	(label "RCC_OSC_OUT"
 		(at 252.73 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11459,7 +11356,6 @@
 	)
 	(label "CAN_1_L"
 		(at 93.98 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11470,7 +11366,6 @@
 	)
 	(label "SPI1_SCK"
 		(at 121.92 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11481,7 +11376,6 @@
 	)
 	(label "3.3V"
 		(at 251.46 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11492,7 +11386,6 @@
 	)
 	(label "GND"
 		(at 49.53 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11503,7 +11396,6 @@
 	)
 	(label "GND"
 		(at 45.72 224.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11514,7 +11406,6 @@
 	)
 	(label "GND"
 		(at 251.46 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11525,7 +11416,6 @@
 	)
 	(label "3.3V"
 		(at 217.17 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11536,7 +11426,6 @@
 	)
 	(label "FDCAN1_TX"
 		(at 389.89 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11547,7 +11436,6 @@
 	)
 	(label "GND"
 		(at 16.51 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11558,7 +11446,6 @@
 	)
 	(label "TIM2_CH3"
 		(at 203.2 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11569,7 +11456,6 @@
 	)
 	(label "PC14"
 		(at 316.23 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11580,7 +11466,6 @@
 	)
 	(label "NRST"
 		(at 57.15 267.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11591,7 +11476,6 @@
 	)
 	(label "GND"
 		(at 87.63 207.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11602,7 +11486,6 @@
 	)
 	(label "PC15"
 		(at 316.23 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11613,7 +11496,6 @@
 	)
 	(label "PA4"
 		(at 184.15 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11624,7 +11506,6 @@
 	)
 	(label "USART2_TX"
 		(at 45.72 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11635,7 +11516,6 @@
 	)
 	(label "SPI1_MOSI"
 		(at 121.92 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11646,7 +11526,6 @@
 	)
 	(label "CAN_2_H"
 		(at 49.53 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11657,7 +11536,6 @@
 	)
 	(label "SPI2_MOSI"
 		(at 121.92 163.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11668,7 +11546,6 @@
 	)
 	(label "SWDIO"
 		(at 57.15 265.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11679,7 +11556,6 @@
 	)
 	(label "3.3V"
 		(at 339.09 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11690,7 +11566,6 @@
 	)
 	(label "TIM3_CH2"
 		(at 251.46 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11701,7 +11576,6 @@
 	)
 	(label "SPI2_SCK"
 		(at 121.92 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11712,7 +11586,6 @@
 	)
 	(label "SPI2_MISO"
 		(at 121.92 161.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11723,7 +11596,6 @@
 	)
 	(label "PC14"
 		(at 184.15 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11734,7 +11606,6 @@
 	)
 	(label "VCC"
 		(at 16.51 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11745,7 +11616,6 @@
 	)
 	(label "CAN_1_H"
 		(at 16.51 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11756,7 +11626,6 @@
 	)
 	(label "SPI1_MOSI"
 		(at 344.17 162.56 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11767,7 +11636,6 @@
 	)
 	(label "GND"
 		(at 203.2 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11778,7 +11646,6 @@
 	)
 	(label "SPI1_MISO"
 		(at 356.87 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11789,7 +11656,6 @@
 	)
 	(label "I2C2_SCL"
 		(at 389.89 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11800,7 +11666,6 @@
 	)
 	(label "GND"
 		(at 121.92 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11811,7 +11676,6 @@
 	)
 	(label "3.3V"
 		(at 57.15 257.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11822,7 +11686,6 @@
 	)
 	(label "GND"
 		(at 100.33 273.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11833,7 +11696,6 @@
 	)
 	(label "FDCAN2_TX"
 		(at 140.97 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11844,7 +11706,6 @@
 	)
 	(label "CAN_1_H"
 		(at 16.51 160.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11855,7 +11716,6 @@
 	)
 	(label "ADC1_IN2"
 		(at 184.15 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11866,7 +11726,6 @@
 	)
 	(label "CAN_1_H"
 		(at 16.51 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11877,7 +11736,6 @@
 	)
 	(label "PC13"
 		(at 316.23 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11888,7 +11746,6 @@
 	)
 	(label "GND"
 		(at 364.49 165.1 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11899,7 +11756,6 @@
 	)
 	(label "CAN_2_H"
 		(at 49.53 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11910,7 +11766,6 @@
 	)
 	(label "CAN_2_L"
 		(at 49.53 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11921,7 +11776,6 @@
 	)
 	(label "PC15"
 		(at 184.15 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11932,7 +11786,6 @@
 	)
 	(label "CAN_1_H"
 		(at 93.98 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11943,7 +11796,6 @@
 	)
 	(label "CAN_1_H"
 		(at 93.98 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11954,7 +11806,6 @@
 	)
 	(label "FDCAN2_RX"
 		(at 140.97 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11965,7 +11816,6 @@
 	)
 	(label "3.3V"
 		(at 313.69 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11976,7 +11826,6 @@
 	)
 	(label "VCC"
 		(at 49.53 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11987,7 +11836,6 @@
 	)
 	(label "PA4"
 		(at 311.15 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11998,7 +11846,6 @@
 	)
 	(label "USART1_RX"
 		(at 45.72 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12009,7 +11856,6 @@
 	)
 	(label "FDCAN1_RX"
 		(at 389.89 113.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12020,7 +11866,6 @@
 	)
 	(label "3.3V"
 		(at 251.46 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12031,7 +11876,6 @@
 	)
 	(label "CAN_1_L"
 		(at 16.51 162.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12042,7 +11886,6 @@
 	)
 	(label "I2C2_SCL"
 		(at 88.9 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12053,7 +11896,6 @@
 	)
 	(label "GND"
 		(at 240.03 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12064,7 +11906,6 @@
 	)
 	(label "GND"
 		(at 121.92 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12075,7 +11916,6 @@
 	)
 	(label "CAN_2_L"
 		(at 198.12 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12086,7 +11926,6 @@
 	)
 	(label "FDCAN1_TX"
 		(at 74.93 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12097,7 +11936,6 @@
 	)
 	(label "VCC"
 		(at 31.75 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12108,7 +11946,6 @@
 	)
 	(label "TIM2_CH2"
 		(at 359.41 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12119,7 +11956,6 @@
 	)
 	(label "PC15"
 		(at 121.92 252.095 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12130,7 +11966,6 @@
 	)
 	(label "RCC_OSC_OUT"
 		(at 313.69 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12141,7 +11976,6 @@
 	)
 	(label "GND"
 		(at 45.72 210.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12152,7 +11986,6 @@
 	)
 	(label "USART2_TX"
 		(at 316.23 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12163,7 +11996,6 @@
 	)
 	(label "RCC_OSC_IN"
 		(at 313.69 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12174,7 +12006,6 @@
 	)
 	(label "CAN_1_H"
 		(at 16.51 171.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12185,7 +12016,6 @@
 	)
 	(label "BATT"
 		(at 17.78 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12196,7 +12026,6 @@
 	)
 	(label "PB5"
 		(at 354.33 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12207,7 +12036,6 @@
 	)
 	(label "I2C1_SDA"
 		(at 349.25 71.12 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12218,7 +12046,6 @@
 	)
 	(label "3.3V"
 		(at 121.92 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12229,7 +12056,6 @@
 	)
 	(label "PB12"
 		(at 384.81 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12240,7 +12066,6 @@
 	)
 	(label "SPI2_SCK"
 		(at 381 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12251,7 +12076,6 @@
 	)
 	(label "BOOT0"
 		(at 22.86 264.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12262,7 +12086,6 @@
 	)
 	(label "VCC"
 		(at 16.51 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12273,7 +12096,6 @@
 	)
 	(label "5V"
 		(at 87.63 186.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12284,7 +12106,6 @@
 	)
 	(label "GND"
 		(at 87.63 189.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12295,7 +12116,6 @@
 	)
 	(label "5V"
 		(at 203.2 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12329,7 +12149,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 27.94 41.275 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12341,7 +12160,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 93.345 39.37 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12353,7 +12171,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 136.525 40.005 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12365,7 +12182,6 @@
 	(hierarchical_label "VCC"
 		(shape input)
 		(at 256.54 21.59 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12377,7 +12193,6 @@
 	(hierarchical_label "5V"
 		(shape input)
 		(at 196.85 30.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12389,7 +12204,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 237.49 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12401,7 +12215,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 270.51 37.465 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12413,7 +12226,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 76.2 44.45 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12425,7 +12237,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 282.575 37.465 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12437,7 +12248,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 210.82 43.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12449,7 +12259,6 @@
 	(hierarchical_label "5V"
 		(shape input)
 		(at 270.51 21.59 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12461,7 +12270,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 282.575 21.59 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12473,7 +12281,6 @@
 	(hierarchical_label "3V3"
 		(shape input)
 		(at 238.125 30.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12485,7 +12292,6 @@
 	(hierarchical_label "VCC"
 		(shape input)
 		(at 27.94 26.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12497,7 +12303,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 256.54 37.465 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12509,7 +12314,6 @@
 	(hierarchical_label "GND_PROT"
 		(shape input)
 		(at 113.665 43.815 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12521,7 +12325,6 @@
 	(hierarchical_label "5V"
 		(shape input)
 		(at 180.34 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
